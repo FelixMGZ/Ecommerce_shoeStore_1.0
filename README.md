@@ -1,3 +1,5 @@
+![Vista previa](frontend/app/assets/img/Captura_01.JPG)
+
 # ShoeStore E-Commerce
 
 ShoeStore es una tienda en línea de calzado desarrollada con HTML, CSS, JavaScript y Bootstrap. Permite a los usuarios navegar, buscar y comprar productos, así como a los administradores gestionar productos, usuarios y pedidos.
@@ -37,6 +39,8 @@ app/
 - **Panel de administración** para gestionar productos, usuarios y pedidos.
 - **Dashboard de usuario** con resumen de pedidos y gestión de tarjeta.
 - **Responsive** y diseño moderno con Bootstrap.
+
+![Vista previa](frontend/app/assets/img/Captura_02.JPG)
 
   # Shoe Store Backend
 
